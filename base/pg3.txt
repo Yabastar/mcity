@@ -1,0 +1,23 @@
++-------------------------+
+|THE MCITY TIMES| PAGE 03 |
+|---------------+---------|
+|  NEWS STORY TITLE HERE  |
+|Lorem ipsum dolor sit    |
+|amet, consectetur        |
+|adipiscing elit. Duis    |   
+|ligula massa, congue in  |
+|viverra ornare, egestas  |
+|nec orci. Nullam at      |
+|placerat mi, vitae       |
+|efficitur diam.          |
+|-------------------------|
+|  GAME: THE DAILY ASCII  |
+|                         | 
+| Can you guess the ASCII |
+|  character ID of these  |
+|       characters?       |
+|                         |
+|  #1:   #2:   #3:   #4:  |
+|   )     s     &     8   |
+|   Answer on next page   |
++-------------------------+
