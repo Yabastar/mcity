@@ -1,0 +1,23 @@
++-------------------------+
+|THE MCITY TIMES| PAGE 04 |
+|---------------+---------|
+| ANSWER: THE DAILY ASCII |
+|#1: Right Bracket     041|
+|#2: Lowercase S       115|
+|#3: Ampersand         038|   
+|#4: Number Eight      056|
+|-------------------------|
+|  NEWS STORY TITLE HERE  |
+|Lorem ipsum dolor sit    | 
+|amet, consectetur        |
+|adipiscing elit. Sed ac  |
+|odio in mi placerat      |
+|vulputate. Vivamus       |
+|finibus massa at molestie|
+|viverra. Pellentesque    |
+|mattis, leo sit amet id. |
+|-------------------------|
+|The MCity Times is paid  |
+|for and sponsored by     |
+|Honeydrop and RT Software|
++-------------------------+
