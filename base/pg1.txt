@@ -1,0 +1,23 @@
++-------------------------+
+|LOGOLOGOLOGO LOGOLOGOLOGO|
+|LOGOLOGOLOGO LOGOLOGOLOGO|
+|LOGOLOGOLOGO LOGOLOGOLOGO|
+|LOGOLOGOLOGO             |
+|LOGOLOGOLOGO             |
+|LOGOLOGOLOGO   Mar, 1994 |
+|-------------------------|
+|  MAIN NEWS STORY TITLE  |
+|Lorem ipsum dolor sit    |
+|amet, consectetur        |
+|adipiscing elit. Morbi   |
+|mollis sapien non        |
+|elementum convallis.     |
+|Vestibulum a velit cogue,|
+|blandit odio vitae,      |
+|malesuada tellus. Fusce  |
+|ornare tortor sit amet.  |
+|-------------------------|
+|The MCity Times is paid  |
+|for and sponsored by     |
+|Honeydrop and RT Software|
++-------------------------+
